@@ -91,7 +91,8 @@ The client wants to enhance internet sales by replacing traditional static repor
 
 ## View Power BI Dashboard
 
-[Click here to view the Power BI Dashboard](<iframe title="User_stories_dashboards" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDI4OGJiYjAtMjc3ZC00N2NlLTljMGMtYWFiOTdjYTdhYWEzIiwidCI6IjE3MjkzMTdiLTA3YzAtNDJmYS1hNWViLTY2OTc4ZmQyYjBmOSJ9" frameborder="0" allowFullScreen="true"></iframe>)
+[Click here to view the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDI4OGJiYjAtMjc3ZC00N2NlLTljMGMtYWFiOTdjYTdhYWEzIiwidCI6IjE3MjkzMTdiLTA3YzAtNDJmYS1hNWViLTY2OTc4ZmQyYjBmOSJ9)
+
 
 
 
