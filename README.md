@@ -1,5 +1,5 @@
 
-## Data-Driven Sales Analysis for Client E-commerce Company
+## Data-Driven Sales Analysis for  E-commerce Company
 A strategic approach to optimizing sales and understanding customer behavior
 
 ---
