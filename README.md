@@ -1,4 +1,4 @@
-📊 Online Sales Analytics
+
 ## Data-Driven Sales Analysis for Client E-commerce Company
 A strategic approach to optimizing sales and understanding customer behavior
 
