@@ -7,9 +7,10 @@ A strategic approach to optimizing sales and understanding customer behavior
 ## Business Objective
 The client, a leading e-commerce company, aims to shift from static reports to dynamic, interactive dashboards. The goal is to:
 
--Track, monitor, and optimize internet sales.
--Analyze customer behavior and product performance.
--Evaluate sales trends against budget for better financial planning.
+- Track, monitor, and optimize internet sales.
+  
+- Analyze customer behavior and product performance.
+- Evaluate sales trends against budget for better financial planning.
 
 ---
 
