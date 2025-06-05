@@ -4,7 +4,7 @@ A strategic approach to optimizing sales and understanding customer behavior
 
 ---
 
-##Business Objective
+## Business Objective
 The client, a leading e-commerce company, aims to shift from static reports to dynamic, interactive dashboards. The goal is to:
 
 -Track, monitor, and optimize internet sales.
@@ -13,27 +13,27 @@ The client, a leading e-commerce company, aims to shift from static reports to d
 
 ---
 
-##Problem Statement
+## Problem Statement
 
 The client wants to enhance internet sales by replacing traditional static reports with insightful and interactive dashboards for real-time decision-making.
 
 ---
 
-##Key Focus Area
+## Key Focus Area
 -Identify top-performing sales segments.
 -Provide detailed analysis of internet sales by customer.
 -Examine sales performance per product and category.
 -Compare actual sales vs. budget to assess efficiency.To get overall top sales performance
 ---
 
-##Tools Used
+## Tools Used
 -**SQL Server** – Data cleaning, transformation, and aggregation.
 -**Power BI** – Interactive dashboards, KPIs, and visual storytelling.
 -**DAX** – Custom measures and time intelligence.
 -**PERCENTILE function** – Used for RFM segmentation and customer ranking.
 
 ---
-##Key Insights
+## Key Insights
 **Sales Performance**
 -Sales were lowest in February (1.3M) and peaked in December (2.5M).
 -Q4 recorded the highest sales contribution at 31.59%.
@@ -62,7 +62,7 @@ The client wants to enhance internet sales by replacing traditional static repor
 
 ---
 
-##Recommendations:
+## Recommendations:
 
 -Launch targeted campaigns for underperforming categories (e.g., Accessories, Clothing).
 -Promote current, high-relevance products with clear value propositions.
@@ -79,7 +79,7 @@ Focus on cross-sell and upsell opportunities in months with below-budget perform
 
 ---
 
-##Deliverables:
+## Deliverables:
 
 -Power BI dashboard with slicers, KPIs, and drill-down views
 -Insight and strategy report for business teams
